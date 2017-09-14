@@ -1,5 +1,4 @@
-# FEniCS
-Numerical Solutions To PDE's via FEniCS
+# Collection of PDE problems and FEniCS models
 
 The goal of this repository is to archive some FEM models. The concept is to introduce well documented models which could be useful.
 
