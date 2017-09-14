@@ -1,7 +1,7 @@
-# fenics
+# FEniCS
 Numerical Solutions To PDE's via FEniCS
 
-The goal of this repository is to archive some FEM models.
+The goal of this repository is to archive some FEM models. The concept is to introduce well documented models which could be useful.
 
 They are separated in different "fronts" according with the nature of the physical problem:
   1. Heat Transfer
