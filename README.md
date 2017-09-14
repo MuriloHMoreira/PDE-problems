@@ -9,3 +9,6 @@ They are separated in different "fronts" according with the nature of the physic
   4. Other
   
 *Maybe* useful information will be stored in the Wiki.
+
+
+** Disclaimer: ** This repository intends to be a study guide. Any information might be incorrect due to wrong interprations of the bibliography. Any information should be double checked. The outcome should be a good set of well documented examples for undergraduate students starting to study PDE's. Any help will be greatly appritiated.
